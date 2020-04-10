@@ -97,27 +97,30 @@
 [submodule "mycroft-release-test"]
 	path = skill-release-test
 	url = https://github.com/mycroftai/skill-release-test
+[submodule "skill-finished-booting"]
+	path = skill-finished-booting
+	url = https://github.com/zelmon64/skill-finished-booting.git
+[submodule "fallback-query"]
+	path = fallback-query
+	url = https://github.com/MycroftAI/skill-query.git
+[submodule "mycroft-wink-iot"]
+	path = mycroft-wink-iot
+	url = https://github.com/MycroftAI/skill-wink-iot.git
 [submodule "game-zork"]
 	path = game-zork
 	url = https://github.com/forslund/white-house-adventure
 [submodule "fallback-aiml"]
 	path = fallback-aiml
 	url = https://github.com/forslund/fallback-aiml.git
-[submodule "cocktails"]
-	path = cocktails
-	url = https://github.com/forslund/skill-cocktail.git
-[submodule "lifx-mycroft"]
-	path = lifx-mycroft
-	url = https://github.com/samclane/lifx-mycroft.git
 [submodule "decide-skill"]
 	path = decide-skill
 	url = https://github.com/lhannon/decide-skill.git
+[submodule "cocktails"]
+	path = cocktails
+	url = https://github.com/forslund/skill-cocktail.git
 [submodule "plasma-activities-skill"]
 	path = plasma-activities-skill
 	url = https://github.com/AIIX/plasma-activities-skill
-[submodule "carstena-the-cows-lists"]
-	path = carstena-the-cows-lists
-	url = https://github.com/CarstenAgerskov/skill-the-cows-lists.git
 [submodule "email-skill"]
 	path = email-skill
 	url = https://github.com/linuss1/email-skill
@@ -135,22 +138,94 @@
 	url = https://github.com/krisgesling/tronald-dump-skill
 [submodule "homeassistant"]
 	path = homeassistant
-	url = https://github.com/btotharye/mycroft-homeassistant.git
+	url = https://github.com/MycroftAI/mycroft-homeassistant
 [submodule "picroft-google-aiy-voicekit"]
 	path = picroft-google-aiy-voicekit
 	url = https://github.com/andlo/picroft-google-aiy-voicekit-skill.git
-[submodule "rodent-facts"]
-	path = rodent-facts
-	url = https://github.com/btotharye/rodent-facts-skill
-[submodule "skill-finished-booting"]
-	path = skill-finished-booting
-	url = https://github.com/zelmon64/skill-finished-booting.git
-[submodule "national-park"]
-	path = national-park
-	url = https://github.com/richhowley/national-parks-skill.git
-[submodule "kathy-msk-test-skill"]
-	path = kathy-msk-test-skill
-	url = https://github.com/KathyReid/kathy-msk-test-skill
 [submodule "wikiquote"]
 	path = wikiquote
 	url = https://github.com/danielwine/wikiquote-skill
+[submodule "theia-ide"]
+	path = theia-ide
+	url = https://github.com/andlo/theia-ide-skill.git
+[submodule "krunner-search-skill"]
+	path = krunner-search-skill
+	url = https://github.com/AIIX/krunner-search-skill.git
+[submodule "cut-up-skill"]
+	path = cut-up-skill
+	url = https://github.com/JonStratton/cut-up-skill
+[submodule "skill-aircrack"]
+	path = skill-aircrack
+	url = https://github.com/JonStratton/skill-aircrack
+[submodule "remember"]
+	path = remember
+	url = https://github.com/luke5sky/remember-skill.git
+[submodule "laugh"]
+	path = laugh
+	url = https://github.com/JarbasAl/skill-laugh.git
+[submodule "auto-volume"]
+	path = auto-volume
+	url = https://github.com/andlo/auto-volume-skill.git
+[submodule "telegram"]
+	path = telegram
+	url = https://github.com/luke5sky/telegram-skill
+[submodule "count"]
+	path = count
+	url = https://github.com/andlo/count-skill.git
+[submodule "fairytalez"]
+	path = fairytalez
+	url = https://github.com/andlo/fairytalez-skill.git
+[submodule "speedtest"]
+	path = speedtest
+	url = https://github.com/luke5sky/speedtest-skill.git
+[submodule "pick-number"]
+	path = pick-number
+	url = https://github.com/pcwii/skill-pick-number.git
+[submodule "iss-tracker"]
+	path = iss-tracker
+	url = https://github.com/andlo/iss-tracker-skill.git
+[submodule "dice-skill"]
+	path = dice-skill
+	url = https://github.com/Dragoncraft89/dice-skill
+[submodule "pokemon"]
+	path = pokemon
+	url = https://github.com/retrodaredevil/pokemon-skill.git
+[submodule "mycroft-mark-2"]
+	path = mycroft-mark-2
+	url = https://github.com/mycroftai/skill-mark-2
+[submodule "learning"]
+	path = learning
+	url = https://github.com/gras64/learning-skill
+[submodule "list-manager"]
+	path = list-manager
+	url = https://github.com/lb803/list-manager-skill.git
+[submodule "Gui-Examples"]
+	path = Gui-Examples
+	url = https://github.com/AIIX/Skill-Gui-Examples
+[submodule "moviemaster"]
+	path = moviemaster
+	url = https://github.com/builderjer/moviemaster
+[submodule "Wiktionary"]
+	path = Wiktionary
+	url = https://github.com/TREE-Ind/Wiktionary-Skill
+[submodule "bark-skill"]
+	path = bark-skill
+	url = https://github.com/padresb/bark-skill
+[submodule "today-in-history"]
+	path = today-in-history
+	url = https://github.com/austin-carnahan/days-in-history-skill
+[submodule "dismissal-skill"]
+	path = dismissal-skill
+	url = https://github.com/ChanceNCounter/dismissal-skill.git
+[submodule "fallback-recommendations-skill"]
+	path = fallback-recommendations-skill
+	url = https://github.com/linuss1/fallback-recommendations-skill
+[submodule "mbta-bus-tracking"]
+	path = mbta-bus-tracking
+	url = https://github.com/richhowley/mbta-bus-tracking-skill
+[submodule "national-parks"]
+	path = national-parks
+	url = https://github.com/richhowley/national-parks-skill
+[submodule "lifx-mycroft"]
+	path = lifx-mycroft
+	url = https://github.com/samclane/lifx-mycroft

@@ -1,3 +1,7 @@
+# Mycroft Mark 2pi
+mycroft-spotify
+mycroft-pandora
+
 # core
 mycroft-pairing
 mycroft-configuration
@@ -8,10 +12,6 @@ mycroft-playback-control
 mycroft-speak
 mycroft-volume
 fallback-query
-
-# desktop
-krunner-search-skill
-plasma-activities-skill
 
 # common
 mycroft-fallback-duck-duck-go
